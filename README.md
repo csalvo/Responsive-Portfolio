@@ -53,34 +53,3 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 9. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
 
 10. Deploy your new portfolio (now with media queries!) to GitHub Pages.
-
-### Assignment Two Instructions (Bootstrap)
-
-1. Inside your `Bootstrap-Portfolio` repo, create `index.html`, `portfolio.html` and `contact.html`. See some screenshots and tips via [this Google Doc](https://docs.google.com/document/d/1DEMnrAtC8HUHaGapNSIzKUUMwfIM3PM3ZsXk317I8HA/edit?usp=sharing).
-
-2. Using Bootstrap, recreate your portfolio site with the following items:
-
-   * A navbar
-
-   * A responsive layout (remember the grid, rows and columns are your friends)
-
-     * eg. On `xs` and `sm` screens, each section should take up the entire grid. On `m` and larger screens, each section should take up 2/3 of the grid and the sidebar should take up 1/3 of the grid
-
-   * Responsive images
-
-   **BONUS**
-   Using Bootstrap, make a sticky footer and use sub-rows and sub-solumns on your portfolio site _(Hint: Check out the Bootstrap documentation)_
-
-3. Your Bootstrap solution should minimize use of media queries.
-
-4. Deploy your new Bootstrap-powered portfolio to GitHub Pages.
-
-### Submitting Your Work on [BootcampSpot.com](http://bootcampspot-v2.com/)
-
-1. Submit the GitHub links to your portfolio repositories on GitHub.
-
-2. Submit the link to your (GitHub Pages) deployed site in the same input field.
-
-### BONUS
-
-* Incorporate CSS animations in your portfolio. [More info here](http://www.w3schools.com/css/css3_animations.asp).
